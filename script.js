@@ -3,12 +3,6 @@ console.log('Hello world!');
 const myName = 'Jonas Schmedtmann';
 const h1 = document.querySelector('.heading-primary');
 
-// h1.addEventListener("click", function () {
-//   h1.textContent = myName;
-//   h1.style.backgroundColor = "red";
-//   h1.style.padding = "5rem";
-// });
-
 ///////////////////////////////////////////////////////////
 // Set current year
 const yearEl = document.querySelector('.year');

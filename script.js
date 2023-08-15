@@ -1,8 +1,3 @@
-console.log('Hello world!');
-
-const myName = 'Jonas Schmedtmann';
-const h1 = document.querySelector('.heading-primary');
-
 ///////////////////////////////////////////////////////////
 // Set current year
 const yearEl = document.querySelector('.year');
